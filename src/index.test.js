@@ -10,7 +10,7 @@ expect(true).to.equal(true);
 
 })
 
-});\\\
+});
 
 
 describe('index.html', () => {
